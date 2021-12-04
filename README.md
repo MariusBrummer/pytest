@@ -1,4 +1,4 @@
 # pytest
-To execute the tests, run the command  "py.test --html=report.html --verbose"
+To execute the tests, run the command  "pytest Tests"
 The step definitions are not implemented.
 
